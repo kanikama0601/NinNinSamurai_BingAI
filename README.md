@@ -1,4 +1,4 @@
-# NinNinSamurai_BingAI
+# BingAI_にんにん侍マニュアル
 BingAIとにんにん侍をしよう！  
 <br>
 <br>
