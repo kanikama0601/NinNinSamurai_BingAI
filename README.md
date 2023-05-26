@@ -7,5 +7,5 @@ Android、iOS、Windows10,11のMicrosoft Edge ブラウザー
 <br>
 <br>
 # 手順
-1.Edgeブラウザーの
-
+1.Edgeブラウザーの  
+<p><img src="https://github.com/kanikama0601/NinNinSamurai_BingAI/blob/main/bing_prepare1.png"></p>
